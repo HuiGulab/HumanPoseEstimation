@@ -28,4 +28,3 @@
 
 参考文件[Detail.md](https://github.com/HuiGulab/HumanPoseEstimation/blob/main/NeRF/Task000/Detail.md)的文档格式
 
-。包括以下内容
